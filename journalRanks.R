@@ -1,6 +1,7 @@
 ## Journal Ranks analysis
 ## Bradshaw & Brook
 ## Sep 2014/updated Mar 2015/updated Feb 2016
+## Added to GitHub 29/06/2017
 
 ## Remove everything
 rm(list = ls())
